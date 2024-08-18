@@ -1,6 +1,6 @@
 Login Credentials - 
 Username - rahul 
-Password - rahul@twozerotwoone - > (after " @ " in Password type " numbers " i have mentioned in letters becasuse the numbers not accepting to type )
+Password - rahul@2021
 
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
